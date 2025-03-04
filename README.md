@@ -1,5 +1,7 @@
 # :wave: The Basics of GitHub 
 
+Move it, move it! 🎶 You’re on your way to learning the basics of GitHub. This course will help you understand what GitHub is, how you can use it, and how you can get started with it.
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
